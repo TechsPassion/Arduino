@@ -1,6 +1,7 @@
-// Define the connections for pins X, Y, and SW
+
 #include <Servo.h> // Include the Servo library
 Servo servo; // Create a servo object
+// Define the connections for pins X, Y, and SW
 const int X = A0, Y = A1, SW = 2;
 
 void setup() {
