@@ -1,4 +1,4 @@
-//Part of this code was written with the help of AI
+
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
