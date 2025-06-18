@@ -4,7 +4,7 @@
   IN2 To D9
   ENA To D10 PWM
   OUT1 & OUT2 To DC Motor
-  +5V To Motor power
+  +12V To Motor power
   GND To GND with Arduino
 
   Pressure Sensor
